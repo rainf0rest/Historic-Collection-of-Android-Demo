@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/dd">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="79dp"
+        android:textSize="30dp"
+        android:text="My Android_Path"
+        android:gravity="center"
+        android:id="@+id/textView" />
+
+    <TextSwitcher
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/TextSw"
+    android:inAnimation="@android:anim/slide_in_left"
+    android:outAnimation="@android:anim/slide_out_right"
+    android:onClick="next">
+
+    </TextSwitcher>
+</LinearLayout>

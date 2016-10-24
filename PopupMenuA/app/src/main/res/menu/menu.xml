@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/aaa" android:icon="@drawable/ic_launcher"
+    android:title="aaa"></item>
+    <item android:id="@+id/bbb" android:icon="@drawable/ic_launcher"
+        android:title="bbb"></item>
+    <item android:id="@+id/ccc" android:icon="@drawable/ic_launcher"
+        android:title="ccc"></item>
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bia">
+        <item>雨果</item>
+        <item>莎士比亚</item>
+        <item>简</item>
+        <item>柯南道尔</item>
+    </string-array>
+</resources>

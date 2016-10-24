@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess me1.1</string>
+    <string name="ps">which is me ?</string>
+    <string name="guess_me">Guess me...</string>
+</resources>

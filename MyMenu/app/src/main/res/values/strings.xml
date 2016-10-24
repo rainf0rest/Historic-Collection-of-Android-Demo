@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <string name="game_start">START</string>
+    <string name="simple">SIMPLE</string>
+    <string name="middle">MIDDLE</string>
+    <string name="difficult">DIFFICULT</string>
+    <string name="game_over">EXIT</string>
+</resources>

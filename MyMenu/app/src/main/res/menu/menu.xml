@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:icon="@drawable/bb" android:title="@string/game_start">
+    <menu>
+        <group android:checkableBehavior="single">
+            <item android:title="@string/simple"
+                android:id="@+id/Simple"
+                android:icon="@drawable/ic_launcher"></item>
+            <item android:title="@string/middle"
+                android:id="@+id/Middle"
+                android:icon="@drawable/ic_launcher"></item>
+            <item android:title="@string/difficult"
+                android:id="@+id/Difficult"
+                android:icon="@drawable/ic_launcher"></item>
+        </group>
+    </menu>
+    <item android:title="@string/game_over"
+        android:id="@+id/Over"
+        android:icon="@drawable/ic_launcher"></item>
+</item>
+</menu>
